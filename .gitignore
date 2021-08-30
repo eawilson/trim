@@ -1,0 +1,6 @@
+trim
+*.o
+*.out
+*.txt
+*.fastq
+*.fastq.gz
